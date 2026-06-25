@@ -22,3 +22,8 @@
 
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+ <br>
+Currently exploring Agentic AI, Machine Learning and actively seeking SWE opportunities (backend, full-stack, or ML-adjacent). If you're hiring or open to a conversation, feel free to connect or message me.
+ 
+📩 chandansinghatwork22@gmail.com
